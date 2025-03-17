@@ -1,2 +1,2 @@
 # clusters
-funding mechanistic clusters
+finding mechanistic clusters
